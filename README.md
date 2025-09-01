@@ -16,6 +16,7 @@ A responsive clone of the Razorpay homepage built using **HTML** and **Tailwind 
 
 ## How to Run
 
-- Clone the repository
-- Run npm install in the terminal
--Start the application with npm run start
+- Clone the repository  
+- Run `npm install` in the terminal  
+- Start the application with `npm run start`
+
