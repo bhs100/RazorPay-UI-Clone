@@ -5,7 +5,7 @@ A responsive clone of the Razorpay homepage built using **HTML** and **Tailwind 
 ## 🛠️ Tech Stack
 
 - **HTML5**
-- **Tailwind CSS v3+**
+- **Tailwind CSS**
 
 ## 📸 Features
 
