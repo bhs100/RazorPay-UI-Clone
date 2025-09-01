@@ -13,3 +13,9 @@ A responsive clone of the Razorpay homepage built using **HTML** and **Tailwind 
 - 📱 Fully responsive for mobile, tablet, and desktop
 - 🎨 Tailwind utility-first styling
 - 🌐 Semantic HTML structure
+
+## How to Run
+
+- Clone the repository
+- Run npm install in the terminal
+-Start the application with npm run start
